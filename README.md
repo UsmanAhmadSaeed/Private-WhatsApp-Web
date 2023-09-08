@@ -1,9 +1,9 @@
-# Private WhatsApp™ Web ![Logo](https://github.com/UsmanAhmadSaeed/Private-WhatsApp-Web/blob/master/src/images/icon32.png?raw=true)
-[![GitHub license](https://img.shields.io/github/license/UsmanAhmadSaeed/Private-WhatsApp-Web.svg)](https://github.com/UsmanAhmadSaeed/Private-WhatsApp-Web/blob/master/LICENSE) [![Chrome Web Store](https://img.shields.io/chrome-web-store/users/jbojhlhhggfmmkpefknmbdhlaghehini.svg)](https://chrome.google.com/webstore/detail/privacy-extension-for-wha/jbojhlhhggfmmkpefknmbdhlaghehini) [![Tweet](https://img.shields.io/twitter/url/https/github.com/UsmanAhmadSaeed/Private-WhatsApp-Web.svg?style=social)](https://twitter.com/intent/tweet?text=&url=https%3A%2F%2Fgithub.com%2FUsmanAhmadSaeed%2FPrivate-WhatsApp-Web)
+# Private WhatsApp™ Web ![Logo](https://github.com/UsmanAhmadSaeed/Private-WhatsApp-Web/blob/main/src/images/icon32.png?raw=true)
+[![GitHub license](https://img.shields.io/github/license/UsmanAhmadSaeed/Private-WhatsApp-Web.svg)](https://github.com/UsmanAhmadSaeed/Private-WhatsApp-Web/blob/main/LICENSE) [![Chrome Web Store](https://img.shields.io/chrome-web-store/users/jbojhlhhggfmmkpefknmbdhlaghehini.svg)](https://chrome.google.com/webstore/detail/privacy-extension-for-wha/jbojhlhhggfmmkpefknmbdhlaghehini) [![Tweet](https://img.shields.io/twitter/url/https/github.com/UsmanAhmadSaeed/Private-WhatsApp-Web.svg?style=social)](https://twitter.com/intent/tweet?text=&url=https%3A%2F%2Fgithub.com%2FUsmanAhmadSaeed%2FPrivate-WhatsApp-Web)
 
 <p align="center">
-  <img width="48%" title="WhatsApp™ Web with the extension" alt="WhatsApp™ Web with the extension" src="https://github.com/UsmanAhmadSaeed/Private-WhatsApp-Web/blob/master/screenshots/PFWA_Header.png?raw=true">
-  <img width="48%" title="WhatsApp™ Web with the extension" alt="WhatsApp™ Web with the extension" src="https://github.com/UsmanAhmadSaeed/Private-WhatsApp-Web/blob/master/screenshots/PFWA_Settings.png?raw=true">
+  <img width="48%" title="WhatsApp™ Web with the extension" alt="WhatsApp™ Web with the extension" src="https://github.com/UsmanAhmadSaeed/Private-WhatsApp-Web/blob/main/screenshots/PFWA_Header.png?raw=true">
+  <img width="48%" title="WhatsApp™ Web with the extension" alt="WhatsApp™ Web with the extension" src="https://github.com/UsmanAhmadSaeed/Private-WhatsApp-Web/blob/main/screenshots/PFWA_Settings.png?raw=true">
 </p>
 
 ## Credits
@@ -58,7 +58,7 @@ If you have a feature request or if you have encountered a problem, please creat
 Alternatively you can get help at: PWA@UsmanAhmadSaeed.com
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/UsmanAhmadSaeed/Private-WhatsApp-Web/blob/master/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/UsmanAhmadSaeed/Private-WhatsApp-Web/blob/main/LICENSE) file for details.
 
 ### Acknowledgments
 - [Eye Icon](https://www.iconfinder.com/icons/1608687/eye_slash_icon)
