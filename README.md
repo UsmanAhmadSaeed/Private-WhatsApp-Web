@@ -69,4 +69,4 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 >
 > ***Disclaimer:*** *WhatsApp is a trademark of WhatsApp Inc., registered in the U.S. and other countries. This extension is an independent project developed by Lukas Lenhardt and has no relationship to WhatsApp or WhatsApp Inc.*
 >
-[//]: # (> [*Legal and Privacy notice*](https://UsmanAhmadSaeed.com/legal))
+[//]: # (> [*Legal and Privacy notice*])
