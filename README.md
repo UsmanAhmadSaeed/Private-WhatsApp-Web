@@ -8,8 +8,8 @@
 
 ## Credits
 
-#### This project is based on "Privacy Extension for WhatsApp™ Web" extension by Lukas Lenhardt available at his [Github Repository](https://github.com/LukasLen/Privacy-Extension-For-WhatsApp-Web). I've modified the code to my liking and updated the code for it to work with latest WhatsApp release as on September 08, 2023. I've not updated the "no transition delay" and "unblur all on app hover" options, so these might be broken.
-#### The links to webstores of Chrome and Firefox below are of original project and extension from which this project was forked. This ReadMe has not been fully updated either and some links might be broken, while others lead to original repository or website/webstores. Feel free to reach out for helping improve the project or anything in general.
+### This project is based on "Privacy Extension for WhatsApp™ Web" extension by Lukas Lenhardt available at his [Github Repository](https://github.com/LukasLen/Privacy-Extension-For-WhatsApp-Web). I've modified the code to my liking and updated the code for it to work with latest WhatsApp release as on September 08, 2023. I've not updated the "no transition delay" and "unblur all on app hover" options, so these might be broken.
+### The links to webstores of Chrome and Firefox below are of original project and extension from which this project was forked. This ReadMe has not been fully updated either and some links might be broken, while others lead to original repository or website/webstores. Feel free to reach out for helping improve the project or anything in general.
 
 To increase privacy in public spaces the Private WhatsApp™ Web blurs your messages as well as other content and only reveals one when you hover over it with your mouse cursor. Additionally, you can quickly toggle all effects by using a keyboard shortcut or by clicking the toggle button in the extension menu.
 
