@@ -1,0 +1,13 @@
+.vQ0w7 /* message preview */,
+div.holukk2e > span /* status caption preview */
+{
+  filter: blur(8px) grayscale(1);
+  transition-delay: 0s;
+}
+
+.vQ0w7:hover /* message preview */,
+div.holukk2e > span:hover /* status caption preview */
+{
+  filter: blur(0) grayscale(0);
+  transition-delay: 0.3s;
+}

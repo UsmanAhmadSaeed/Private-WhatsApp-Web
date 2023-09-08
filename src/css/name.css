@@ -1,0 +1,39 @@
+._21S-L /*Left panel list user/group names*/,
+._6u0RM /*Top user/group name in open chat*/,
+.pm5hny62 > .selectable-text, .pm5hny62 > .copyable-text /* Users of group, names preview in open chat on top */,
+.tl2vja3b > .selectable-text, .tl2vja3b > .copyable-text /* about text of user in open chat's user details */,
+._22yb- > div._8nE1Y > div._2KKXC > div.vQ0w7 > div.r15c9g6i > span /* users in mutual groups */,
+div._8nE1Y > div._2KKXC > div.vQ0w7 > span.selectable-text.copyable-text /* users abouts in groups details pane */,
+.sy6s5v3r /* Details username ~nickname (business accounts) */,
+span.selectable-text.l7jjieqr /* Details username */,
+div._1mDG- > span.selectable-text.copyable-text /* Details group rname */,
+div._233fJ > div > div.fhf7t426 > span:first-of-type  /* Starred messages username */,
+.selectable-text > .e1gr2w1z /* Details pane user phone number */,
+._3IzYj._1yJoL /* Name on messages in group chats */,
+.kiiy14zj > span /* Name when status is open */,
+._3FuDI /* Name in replied messages */,
+span._2h0YP /* Number in group list */
+{
+  filter: blur(5px) grayscale(1);
+  transition-delay: 0s;
+}
+
+._21S-L:hover /*Left panel list user/group names*/,
+._6u0RM:hover /*Top user/group name in open chat*/,
+.pm5hny62 > .selectable-text:hover, .pm5hny62 > .copyable-text:hover /* Users of group, names preview in open chat on top */,
+.tl2vja3b > .selectable-text:hover, .tl2vja3b > .copyable-text:hover /* about text of user in open chat's user details */,
+._22yb- > div._8nE1Y > div._2KKXC > div.vQ0w7 > div.r15c9g6i > span:hover /* users in mutual groups */,
+div._8nE1Y > div._2KKXC > div.vQ0w7 > span.selectable-text.copyable-text:hover /* users abouts in groups details pane */,
+.sy6s5v3r:hover /* Details username ~nickname (business accounts) */,
+span.selectable-text.l7jjieqr:hover /* Details username */,
+div._1mDG- > span.selectable-text.copyable-text:hover /* Details group rname */,
+div._233fJ > div > div.fhf7t426 > span:first-of-type:hover  /* Starred messages username */,
+.selectable-text > .e1gr2w1z:hover /* Details pane user phone number */,
+._3IzYj._1yJoL:hover /* Name on messages in group chats */,
+.kiiy14zj > span:hover /* Name when status is open */,
+._3FuDI:hover /* Name in replied messages */,
+span._2h0YP:hover /* Number in group list */
+{
+  filter: blur(0) grayscale(0);
+  transition-delay: 0.3s;
+}
